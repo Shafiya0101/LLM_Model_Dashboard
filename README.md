@@ -1,5 +1,8 @@
 # 🌸 ML Model Performance Dashboard — Flowers102
 
+🔗 Live app: https://mlmodelperformancedashboard.streamlit.app/
+
+
 An interactive **Streamlit** dashboard that analyzes the **accuracy vs. energy/carbon trade-offs** of several image-classification architectures trained on the **Flowers102** dataset. It turns the raw experiment results into clear visual answers about which models are worth their compute.
 
 This dashboard is the analysis layer for the companion training experiment (`TP3.ipynb`), where the models were trained and their energy/emissions were measured with **CodeCarbon**.
